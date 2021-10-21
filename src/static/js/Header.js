@@ -5,7 +5,7 @@ function Header() {
     <div className="header">
       <div className="header__logo">
         <img
-          src="../assets/imgs/logo.png"
+          src="src\assets\imgs\logo.png"
           className="header__img-logo"
           alt=""
         />
