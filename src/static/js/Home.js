@@ -9,7 +9,7 @@ function Home() {
           còn ở đó. Còn gì tuyệt vời hơn khi ghé lại với chúng tôi thưởng thức
           một ly cafe giữa đen và trắng, rồi cảm nhận bước chân của thời gian
           đang đi qua kí ức. Để rồi không còn những muộn phiền, chỉ còn trong
-          tim sự bình yên đến lạ thường.
+          tim sự bình yên đến lạ thường..
         </p>
         <div class="div-btn-sign">
           <button id="btn-signup">Đăng Kí</button>
